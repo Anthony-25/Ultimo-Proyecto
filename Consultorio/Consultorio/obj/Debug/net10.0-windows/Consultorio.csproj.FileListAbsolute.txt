@@ -1,0 +1,16 @@
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\bin\Debug\net10.0-windows\Consultorio.exe
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\bin\Debug\net10.0-windows\Consultorio.deps.json
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\bin\Debug\net10.0-windows\Consultorio.runtimeconfig.json
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\bin\Debug\net10.0-windows\Consultorio.dll
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\bin\Debug\net10.0-windows\Consultorio.pdb
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\obj\Debug\net10.0-windows\Consultorio.Form1.resources
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\obj\Debug\net10.0-windows\Consultorio.csproj.GenerateResource.cache
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\obj\Debug\net10.0-windows\Consultorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\obj\Debug\net10.0-windows\Consultorio.AssemblyInfoInputs.cache
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\obj\Debug\net10.0-windows\Consultorio.AssemblyInfo.cs
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\obj\Debug\net10.0-windows\Consultorio.csproj.CoreCompileInputs.cache
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\obj\Debug\net10.0-windows\Consultorio.dll
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\obj\Debug\net10.0-windows\refint\Consultorio.dll
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\obj\Debug\net10.0-windows\Consultorio.pdb
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\obj\Debug\net10.0-windows\Consultorio.genruntimeconfig.cache
+C:\Users\faust\OneDrive\Escritorio\Ultimo_Proyecto\Consultorio\Consultorio\obj\Debug\net10.0-windows\ref\Consultorio.dll
